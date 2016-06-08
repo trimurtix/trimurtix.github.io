@@ -3,6 +3,7 @@ html {
   background: #282d37;
   height: 100%;
   overflow:hidden;
+  margin:0;
 }
 main {
   display: table;
